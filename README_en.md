@@ -34,9 +34,9 @@ To increase **student motivation and engagement** through a gamified reward syst
 ## Technology
 | Layer | Technology |
 |------|------------|
-| **Backend** | Python — Flask / Django |
+| **Backend** | Python |
 | **Frontend** | HTML, CSS, JavaScript |
-| **Database** | SQLite (development) / PostgreSQL (production) |--
+| **Database** | SQLite |--
 ## Development Phases
 Phase 1 — Planning
 Phase 2 — Design
