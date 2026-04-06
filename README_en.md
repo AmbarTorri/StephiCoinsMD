@@ -11,8 +11,17 @@ To increase **student motivation and engagement** through a gamified reward syst
 |------|-------------|
 | **Teacher (Admin)** | Creates tasks, assigns coins, approves submissions, and manages rewards |
 | **Student (User)** | Completes tasks, earns coins, and redeems them in the store |--
-![title_2](title_2.png)
-## Main Features- **Task management** — creation, editing, and tracking of activities  - **Approval system** — teachers validate submissions before awarding coins  - **Coin balance** — real-time tracking of each student’s balance  - **Reward store** — redeem coins for extra points, postponing exams, skipping tasks, and more  --
+
+![title_2_en.png](title_2_en.png)
+## Main Features
+**Task management** — creation, editing, and tracking of activities  - 
+
+**Approval system** — teachers validate submissions before awarding coins  - 
+
+**Coin balance** — real-time tracking of each student’s balance 
+
+
+**Reward store** — redeem coins for extra points, postponing exams, skipping tasks, and more  --
 ## Usage Flow
 1. Teacher creates a task with a coin value
 ↓
@@ -33,9 +42,11 @@ Phase 1 — Planning
 Phase 2 — Design
 Phase 3 — Development
 Phase 4 — Testing and Deployment--
-## Compatibility- Runs in the browser — no installation required  - Compatible with mobile devices and computers  --
-## Known Bugs- The coin balance does not update automatically; the page must be refreshed manually.  --
+## Compatibility- 
+Runs in the browser —
+ no installation required  - Compatible with mobile devices and computers  --
+## Known Bugs-
+ The coin balance does not update automatically; the page must be refreshed manually.  --
 ## License
 This project was developed for educational purposes.--
-<p align="center">Made to motivate learning</p>
-## Paulina Ramos, Ambar Torri, Tadeo Cerutti, Julián Funes and Mateo Ortega 
+<p align="center">Paulina Ramos, Ambar Torri, Tadeo Cerutti, Julián Funes and Mateo Ortega </p>

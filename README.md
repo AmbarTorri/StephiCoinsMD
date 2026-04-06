@@ -94,4 +94,4 @@ Este proyecto fue desarrollado con fines educativos.
 
 ---
 
-<p align="center">Hecho para motivar el aprendizaje</p>
+<p align="center">Paulina Ramos, Ambar Torri, Tadeo Cerutti, Julián Funes and Mateo Ortega </p>
